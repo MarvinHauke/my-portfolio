@@ -2,3 +2,45 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Marvin Hauke Portfolio'
 theme = 'PaperMod'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "search"
+    name = "search"
+    url = "/search/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "example"
+    name = "Example.org"
+    url = "https://example.org"
+    weight = 40
+
+
+[params]
+  env = "production"  # Enable features like search indexing
+
+  [params.homeInfoParams]
+    Title = "Welcome to My Site"
+    Content = "This is a brief introduction about Marvin Hauke"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/MarvinHauke"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/marvin-hauke-46b657205/"

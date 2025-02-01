@@ -1,13 +1,13 @@
 +++
 date = '2025-02-01T21:09:27+01:00'
 draft = false
-title = 'neovim config'
+title = 'My Dotfiles'
 ShowCodeCopyButtons = true
 +++
 
-# heading
+## Dotfiles and Neovim config
 
-this is the First Post on my website
+here you can see how i learned a lot about coding through Dotfiles and my Neovim setup
 
 ```Bash
 git clone https://github.com/MarvinHauke/myDotfiles
