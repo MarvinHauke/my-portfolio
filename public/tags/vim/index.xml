@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Marvin Hauke Portfolio</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Marvin Hauke Portfolio</description>
+    <title>Vim on Marvin Hauke Portfolio</title>
+    <link>http://localhost:1313/tags/vim/</link>
+    <description>Recent content in Vim on Marvin Hauke Portfolio</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2025 00:21:32 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Eurorack Modules</title>
-      <link>http://localhost:1313/posts/eurorack/eurorack-modules/</link>
-      <pubDate>Sun, 02 Feb 2025 00:21:32 +0100</pubDate>
-      <guid>http://localhost:1313/posts/eurorack/eurorack-modules/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;small VCO&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/small_vco.jpg&#34;&gt;
-here you can find a list of all my designed Eurorack modules&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Sat, 01 Feb 2025 21:09:27 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Dotfiles</title>
       <link>http://localhost:1313/posts/mydotfiles/mydotfiles/</link>
