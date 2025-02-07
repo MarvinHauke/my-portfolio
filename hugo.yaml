@@ -1,9 +1,14 @@
 baseURL: "https://example.org/"
 languageCode: en-us
 title: Marvin Hauke Portfolio
-theme: PaperMod
+theme: Hugo-starter-theme
 
 menu:
+  test:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
   main:
     - identifier: tags
       name: Tags
