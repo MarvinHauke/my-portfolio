@@ -10,9 +10,7 @@ params:
 
   socialIcons:
     - name: "GitHub"
-      url: "https://github.com/myprofile"
-    - name: "Twitter"
-      url: "https://twitter.com/myprofile"
+      url: "https://github.com/MarvinHauke"
 
 menu:
   main:
