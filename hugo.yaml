@@ -1,0 +1,26 @@
+baseURL: "https://example.com/"
+languageCode: "en-us"
+title: "My Hugo Website"
+theme: "PaperMod"
+
+params:
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: "Welcome to my site!"
+
+  socialIcons:
+    - name: "GitHub"
+      url: "https://github.com/myprofile"
+    - name: "Twitter"
+      url: "https://twitter.com/myprofile"
+
+menu:
+  main:
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
+      weight: 10
+    - identifier: "projects"
+      name: "Projects"
+      url: "/projects/"
+      weight: 20
