@@ -1,11 +1,11 @@
 baseURL: "https://example.com/"
 languageCode: "en-us"
-title: "My Hugo Website"
-theme: "PaperMod"
+title: "Marvins-Blog"
+theme: "hugo-PaperMod"
 
 params:
   homeInfoParams:
-    Title: "Hi there 👋"
+    Title: "Hi there 🐶"
     Content: "Welcome to my site!"
 
   socialIcons:
@@ -17,8 +17,8 @@ menu:
     - identifier: "about"
       name: "About"
       url: "/about/"
-      weight: 10
+      weight: 20
     - identifier: "projects"
       name: "Projects"
       url: "/projects/"
-      weight: 20
+      weight: 10
