@@ -1,7 +1,7 @@
 ---
 date: "2025-03-26T00:46:24+01:00"
 draft: false
-title: "Stm32_for_analog_vco"
+title: "Stm32 for analog vco"
 ---
 
 I would like to add a STM32 controller to my analog Oscillator design.
