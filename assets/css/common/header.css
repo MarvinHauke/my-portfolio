@@ -71,29 +71,6 @@ body:not(.dark) #sun {
   border-bottom: 2px solid currentColor;
 }
 
-#social-icons {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-#social-icons li {
-  display: inline-block;
-}
-
-#social-icons a {
-  font-size: 26px;
-  color: #fff;
-  text-decoration: none;
-}
-
-#social-icons a:hover {
-  color: #007bff;
-}
-
 .lang-switch li,
 .lang-switch ul,
 .logo-switches {
